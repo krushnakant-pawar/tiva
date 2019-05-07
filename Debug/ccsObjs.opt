@@ -1,0 +1,1 @@
+"./ledmatrix.o" "./mainscroll.o" "./pll.o" "./ssi.o" "./tm4c123gh6pm_startup_ccs_gcc.o" -Wl,-T"../tm4c123gh6pm.lds" -Wl,--start-group -lc -lm -lrdimon -Wl,--end-group 
